@@ -1,11 +1,11 @@
-package algorithm.changhee.stack_queue;
+package practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class BaekJoon28278 {
+public class Boj28278 {
     static Stack<Integer> stack = new Stack<>();
 
     public static void main(String[] args) throws IOException {

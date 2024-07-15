@@ -1,4 +1,4 @@
-package algorithm.changhee.stack_queue;
+package practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 // https://st-lab.tistory.com/196 페이지 참조
-public class BaekJoon17298 {
+public class Boj17298 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();

@@ -1,11 +1,11 @@
-package algorithm.changhee.stack_queue;
+package practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class BaekJoon12789 {
+public class Boj12789 {
     static int result = 1;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
