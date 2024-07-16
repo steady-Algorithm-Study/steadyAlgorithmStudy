@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1st_stackQueue/mission" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1st_stackQueue/practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2nd_dequePriorityQueue/practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2nd_dequePriorityQueue/mission" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
