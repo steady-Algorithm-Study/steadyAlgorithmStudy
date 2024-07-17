@@ -1,0 +1,18 @@
+
+ | 문제 번호 | 문제 이름 | 문제 링크 |
+|:---:|---|:---:|
+ | 10828 | 스택 | [링크](http://icpc.me/10828) | 
+ | 9012 | 괄호 | [링크](http://icpc.me/9012) |
+| 4949 | 균형잡힌 세상 | [링크](http://icpc.me/4949) |
+ | 10799 | 쇠막대기 | [링크](http://icpc.me/10799) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/10799_%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0) |
+| 2504 | 괄호의 값 | [링크](http://icpc.me/2504) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/2504_%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92) |
+ | 5397 | 키로거 | [링크](http://icpc.me/5397) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/5397_%ED%82%A4%EB%A1%9C%EA%B1%B0) |
+ | 16120 | PPAP | [링크](http://icpc.me/16120) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/16120_PPAP) |
+ | 1874 | 스택 수열 | [링크](http://icpc.me/1874) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4) |
+ | 2841 | 외계인의 기타 연주 | [링크](http://icpc.me/2841) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/2841_%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%EA%B8%B0%ED%83%80%EC%97%B0%EC%A3%BC) |
+| 17298 | 오큰수 | [링크](http://icpc.me/17298) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/17298_%EC%98%A4%ED%81%B0%EC%88%98) |
+ | 3986 | 좋은 단어 | [링크](http://icpc.me/3986) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/3986_%EC%A2%8B%EC%9D%80%EB%8B%A8%EC%96%B4) |
+ | 1935 | 후위 표기식2 | [링크](http://icpc.me/1935) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/1935_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D2) |
+ | 17413 | 단어 뒤집기 2 | [링크](http://icpc.me/17413) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/17413_%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B02) |
+ | 6198 | 옥상 정원 꾸미기 | [링크](http://icpc.me/6198) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/6198_%EC%98%A5%EC%83%81%EC%A0%95%EC%9B%90%EA%BE%B8%EB%AF%B8%EA%B8%B0) |
+ | 2812 | 크게 만들기 | [링크](http://icpc.me/2812) | [링크](https://github.com/Acka1357/codingtest-java-20/tree/main/Part2_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Ch02_%EC%8A%A4%ED%83%9D/%EB%AC%B8%EC%A0%9C%EB%B3%84%EC%BD%94%EB%93%9C/2812_%ED%81%AC%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0) |
