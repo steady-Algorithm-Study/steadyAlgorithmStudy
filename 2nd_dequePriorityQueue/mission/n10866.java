@@ -1,4 +1,4 @@
-package study;
+package mission;
 
 import java.util.LinkedList;
 import java.util.Scanner;

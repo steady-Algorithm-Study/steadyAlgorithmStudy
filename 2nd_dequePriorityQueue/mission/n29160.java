@@ -1,4 +1,4 @@
-package study;
+package mission;
 
 import java.util.Collections;
 import java.util.HashMap;
@@ -11,7 +11,8 @@ public class n29160 {
         int n = sc.nextInt();
         int k = sc.nextInt();
 
-        HashMap<Integer, PriorityQueue<Integer>> map = new HashMap<Integer, PriorityQueue<Integer>>();
+        HashMap<Integer, PriorityQueue<Integer>> map = new HashMap<Integer, PriorityQueue<Integer>>(11);
+
         for(int i = 1; i <= n; i++){
             //최대힙으로
             map.put(i, new PriorityQueue<Integer>(Collections.reverseOrder()));
