@@ -9,6 +9,7 @@ public class n13904 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         PriorityQueue<Subject> pq = new PriorityQueue<>();
+        //nlogn+n
         for (int i = 0; i < n; i++) {
             pq.offer(new Subject(sc.nextInt(), sc.nextInt()));
         }
@@ -18,13 +19,9 @@ public class n13904 {
         int[] arr=new int[size];
         int sum = 0;
 
-        for (int i = 0; i < n; i++) {
+        while(!pq.isEmpty()) {
             int num = pq.peek().getW();
             int day = pq.peek().getD();
-            if (arr[day-1] == 0) {
-                sum += num;
-                arr[day-1] = 1;
-            }else{
                 //마감일까지 과제를 해결할 수 있는 날이 있다면
                 for (int j = day-1; j >= 0; j--) {
                     if(arr[j]==0) {
@@ -33,7 +30,6 @@ public class n13904 {
                         break;
                     }
                 }
-            }
             pq.poll();
         }
         System.out.println(sum);
