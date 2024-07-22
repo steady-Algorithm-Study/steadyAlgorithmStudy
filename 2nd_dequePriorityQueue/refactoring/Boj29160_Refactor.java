@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 import java.util.function.Function;
 
-public class Boj29160 {
+public class Boj29160_Refactor {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
