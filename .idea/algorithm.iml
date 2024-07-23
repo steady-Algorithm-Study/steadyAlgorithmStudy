@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2nd_dequePriorityQueue/mission" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2nd_dequePriorityQueue/refactoring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3rd_hashTable/practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3rd_hashTable/mission" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
