@@ -1,10 +1,9 @@
 package mission;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
-public class Pro {
+public class Pro_의상 {
 
     public static void main(String[] args) {
 
@@ -29,7 +28,7 @@ public class Pro {
                 arr[index] = map.get(s);
                 index++;
             }
-            Map<String, String> map = new 
+
 
             for(int i= 0; i< arr.length -1; i ++){
                 for(int j = i+1; j < arr.length; j++){
