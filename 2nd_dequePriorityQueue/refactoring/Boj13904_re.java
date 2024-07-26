@@ -55,11 +55,7 @@ public class Boj13904_re {
 
         @Override
         public int compareTo(Task o) {
-            if (this.day == o.day) {
-                return o.weight - this.weight;
-            } else {
-                return o.day - this.day;
-            }
+            return this.day - o.day;
         }
     }
 }
