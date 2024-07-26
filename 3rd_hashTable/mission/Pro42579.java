@@ -1,5 +1,9 @@
 import java.util.*;
 
+/**
+    베스트엘범
+    시간복잡도: O(nlogn)
+ */
 class Solution {
     public int[] solution(String[] genres, int[] plays) {
         Map<String, Integer> sumMap = new HashMap<>();
@@ -9,6 +13,7 @@ class Solution {
             String genre = genres[i];
             sumMap.put(genre, sumMap.getOrDefault(genre, 0) + plays[i]);
             
+            // genreMap.put(genre, genreMap.getOrDefault(genere, new HashMap<>()).put(i, plays[i]));
             if(genreMap.containsKey(genre)){
                 genreMap.get(genre).put(i, plays[i]);
             } else{

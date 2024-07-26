@@ -1,5 +1,9 @@
 import java.util.*;
 
+/**
+    의상
+    시간복잡도: O(N)
+ */
 class Solution {
     public int solution(String[][] clothes) {
         int answer = 1;
