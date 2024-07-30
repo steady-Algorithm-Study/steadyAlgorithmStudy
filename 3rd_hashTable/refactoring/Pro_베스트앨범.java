@@ -29,9 +29,8 @@ public class Pro_베스트앨범 {
             }
 
             List<String> keySet = new ArrayList(sumMap.keySet());
-            Collections.sort(keySet, (s1, s2) -> {
-                return sumMap.get(s2) - (sumMap.get(s1));
-            });
+            // 내림차순
+            Collections.sort(keySet, (s1, s2) -> sumMap.get(s2) - sumMap.get(s1) );
 
             List<Integer> resultList = new ArrayList<>();
             for (String s : keySet) {
@@ -42,9 +41,6 @@ public class Pro_베스트앨범 {
                 resultList.add(list.get(0).getKey());
                 if(list.size()>1) resultList.add(list.get(1).getKey());
             }
-
-
-
 
             return resultList.stream().mapToInt(Integer::intValue).toArray();
         }

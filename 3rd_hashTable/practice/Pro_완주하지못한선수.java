@@ -1,9 +1,6 @@
 package practice;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.List;
 
 public class Pro_완주하지못한선수 {
     public static void main(String[] args) {
