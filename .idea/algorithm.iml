@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/3rd_hashTable/practice" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3rd_hashTable/mission" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3rd_hashTable/refactoring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4th_graph/practice" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
