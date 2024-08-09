@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/4th_graph/mission" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4th_graph/refactoring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5th_shortestPath/practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5th_shortestPath/mission" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
